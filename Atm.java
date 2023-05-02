@@ -3,7 +3,7 @@ public class Atm{
     public static void main (String args[]){
         int pin;
         int pin_confirmation;
-        int balance=20000;
+        int balance=20000;//balance
         int AddAmount=0;
         int TakenAmount=0;
         String name;
